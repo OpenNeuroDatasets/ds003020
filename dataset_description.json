@@ -14,5 +14,6 @@
     ],
     "DatasetDOI": "doi:10.18112/openneuro.ds003020.v1.0.1",
     "License": "CC0",
-    "Acknowledgements": "This work was supported by the Whitehall Foundation, Alfred P. Sloan Foundation, Burroughs-Wellcome\nFund, and the Texas Advanced Computing Center."
+    "Acknowledgements": "This work was supported by the Whitehall Foundation, Alfred P. Sloan Foundation, Burroughs-Wellcome\nFund, and the Texas Advanced Computing Center.",
+    "HowToAcknowledge": "This data was obtained from the OpenfMRI database (https://openfmri.org/dataset/ds003020/). Its accession number is ds003020. Please cite [dataset paper in prep]."
 }
