@@ -1,4 +1,4 @@
-participant_id	age	sex
+sub-<subject_id>	age	sex
 Sub-UTS01	24	F
 Sub-UTS02	34	M
 Sub-UTS03	21	M
