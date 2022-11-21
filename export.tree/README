@@ -1,0 +1,17 @@
+## An fMRI dataset during a passive natural language listening task
+
+Preprocessed data can be found in the derivatives file and has been previously described in:
+LeBel, A., Jain, S., and Huth, A. G. (2021). Voxelwise encoding models show that cerebellar language representations are highly conceptual. Journal of Neuroscience.  https://doi.org/10.1523/JNEUROSCI.0118-21.2021
+
+## Dataset Derivatives
+
+1. preprocessed data: fully preprocessed data as described in previous works.
+
+2. textgrids: aligned transcripts of the stimulus with start and end point for each word and phoneme. 
+
+3. pycortex-db: hand-corrected surfaces for each subject to be used in visualization. This is best used with the pycortex software. 
+
+4. subject_xfms.json: a dictionary with the correct transformation for each subject to align the data to the surface.
+
+5. respdict.json: a dictionary with the number of TRs for each story in the stimulus set.
+
