@@ -1,0 +1,20 @@
+1.1.1 2022-12-06
+  - ADD: eng1000 featurespace to dataset
+1.1.0 2022-11-21
+  - ADD: update the readme with new dataset descriptor
+1.0.7 2022-09-30
+  - ADD fixed upload for preprocessed UTS04 data, files were previously corrupted
+1.0.5 2022-09-27
+  - Add S04 preprocessed
+1.0.4 2022-09-24
+  - -ADD: how to cite information
+1.0.3 2022-08-23
+  - slight reformatting
+1.0.2 2021-11-08
+  - ADD: read me file
+1.0.1 2021-11-06
+  - Updates to formatting, particularly the participants.tsv file. 
+
+1.0.0	2020-07-13
+
+	- Initial snapshot
