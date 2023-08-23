@@ -1,8 +1,8 @@
 ## An fMRI dataset during a passive natural language listening task
 
-This dataset now has a dataset descriptor currently available on biorxiv, that describes all of the data and code available for working with this dataset. It can be found:
+This dataset now has a dataset descriptor currently available in Scientific Data, that describes all of the data and code available for working with this dataset. It can be found:
 
-LeBel, A. et al. A natural language fMRI dataset for voxelwise encoding models. bioRxiv 2022.09.22.509104 (2022) doi:10.1101/2022.09.22.509104
+LeBel, A., Wagner, L., Jain, S. et al. A natural language fMRI dataset for voxelwise encoding models. Sci Data 10, 555 (2023). https://doi.org/10.1038/s41597-023-02437-z
 
 A(n incomplete) list of papers using this dataset from our group are listed below:
 
