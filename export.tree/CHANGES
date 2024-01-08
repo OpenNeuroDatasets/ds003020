@@ -1,0 +1,30 @@
+2.2.0 2024-01-08
+  - ADD json files containing more information for each run including slice timing
+2.0.3 2023-09-18
+  - missing preprocessed story sessions [10] for S01
+2.0.2 2023-08-23
+  - Update Read Me with new citation
+2.0.1 2023-05-24
+  - ADD: missing preprocessed story sessions [7, 8] for S03
+2.0.0 2023-05-01
+  - ADD: story sessions [7, 8, 9, 10, 11, 12, 14, 15, 18, 20] for S01, S02, and S03
+1.1.1 2022-12-06
+  - ADD: eng1000 featurespace to dataset
+1.1.0 2022-11-21
+  - ADD: update the readme with new dataset descriptor
+1.0.7 2022-09-30
+  - ADD fixed upload for preprocessed UTS04 data, files were previously corrupted
+1.0.5 2022-09-27
+  - Add S04 preprocessed
+1.0.4 2022-09-24
+  - -ADD: how to cite information
+1.0.3 2022-08-23
+  - slight reformatting
+1.0.2 2021-11-08
+  - ADD: read me file
+1.0.1 2021-11-06
+  - Updates to formatting, particularly the participants.tsv file. 
+
+1.0.0	2020-07-13
+
+	- Initial snapshot

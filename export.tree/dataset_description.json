@@ -1,0 +1,23 @@
+{
+    "Name": "An fMRI dataset during a passive natural language listening task",
+    "BIDSVersion": "1.3.0",
+    "Authors": [
+        "Amanda LeBel",
+        "Lauren Wagner",
+        "Shailee Jain",
+        "Aneesh Adhikari-Desai",
+        "Bhavin Gupta",
+        "Allyson Morgenthal",
+        "Jerry Tang",
+        "Lixiang Xu",
+        "Alexander G. Huth"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds003020.v2.2.0",
+    "License": "CC0",
+    "Acknowledgements": "This work was supported by the Whitehall Foundation, Alfred P. Sloan Foundation, Burroughs-Wellcome\nFund, The National Science Foundation, and the Texas Advanced Computing Center.",
+    "HowToAcknowledge": "This data was obtained from the OpenfMRI database (https://openfmri.org/dataset/ds003020/). Its accession number is ds003020. \nPlease cite LeBel, A., Wagner, L., Jain, S. et al. A natural language fMRI dataset for voxelwise encoding models. Sci Data 10, 555 (2023). https://doi.org/10.1038/s41597-023-02437-z\n\nhttps://www.biorxiv.org/content/10.1101/2022.09.22.509104v1.abstract?%3Fcollection=",
+    "ReferencesAndLinks": [
+        "https://github.com/HuthLab/deep-fMRI-dataset",
+        "https://www.nature.com/articles/s41597-023-02437-z"
+    ]
+}
