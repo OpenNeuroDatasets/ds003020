@@ -1,0 +1,11 @@
+onset	duration	trial_type
+0	20	faces
+20	20	object
+40	20	body
+60	20	scrambled
+80	20	places
+120	20	object
+140	20	faces
+160	20	scrambled
+180	20	body
+200	20	places
