@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/Z8/7M/MD5E-s602207--b0798b5f85dfa2661803eb309cb09d1d.K/MD5E-s602207--b0798b5f85dfa2661803eb309cb09d1d.K
